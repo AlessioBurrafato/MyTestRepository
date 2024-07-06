@@ -1,2 +1,19 @@
-Questo è il documento A.
-Modifica.
+Sviluppatore Full Stack | Esperto DevOps
+
+Full stack | Python, Java, Node | DevOps | Cloud | Esperto e veloce
+
+Sviluppo applicazioni web/mobili robuste e scalabili. Esperto in:
+
+Front-end: HTML5, CSS3, JS (React, Angular, Vue.js)
+Back-end: Python (Django, Flask), Java (Spring Boot), Node.js (Express), PHP (Laravel)
+Database: MySQL, PostgreSQL, MongoDB
+DevOps: CI/CD, Docker, Kubernetes, Ansible, Git, Cloud (AWS, Azure, GCP)
+
+Vantaggi:
+
+Consegna rapida e di alta qualità
+Codice pulito e ben strutturato
+Espert problem solver
+Appassionato di tecnologia e innovazione
+
+Contattami per un preventivo!
